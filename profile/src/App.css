@@ -1,0 +1,12 @@
+ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  font-size: large;
+  background-color: seagreen;
+  color: whitesmoke;
+  justify-content: center;
+  align-items: center;
+  font-weight: bolder;
+}
